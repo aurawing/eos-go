@@ -10,7 +10,7 @@ import (
 	"encoding/hex"
 	"encoding/json"
 
-	"github.com/eoscanada/eos-go/ecc"
+	"github.com/aurawing/eos-go/ecc"
 	"github.com/tidwall/gjson"
 )
 
