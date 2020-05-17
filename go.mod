@@ -1,4 +1,4 @@
-module github.com/eoscanada/eos-go
+module github.com/aurawing/eos-go
 
 go 1.13
 

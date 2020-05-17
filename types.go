@@ -13,7 +13,7 @@ import (
 	"strings"
 	"time"
 
-	"github.com/eoscanada/eos-go/ecc"
+	"github.com/aurawing/eos-go/ecc"
 	"github.com/tidwall/gjson"
 )
 
